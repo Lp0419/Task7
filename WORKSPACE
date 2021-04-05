@@ -45,5 +45,5 @@ http_archive(
             sha256 = "d0f5f605d0d656007ce6c8b5a82df3037e1d8fe8b121ed42e536f569dec16113",
         )
 
-tree
-train
+bus
+stop
