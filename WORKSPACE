@@ -45,8 +45,8 @@ http_archive(
             sha256 = "d0f5f605d0d656007ce6c8b5a82df3037e1d8fe8b121ed42e536f569dec16113",
         )
 
-new_work 1367
-mirea ikbo-04-19
+school
+frog
 
 http_archive(
     name = "absl_py",
