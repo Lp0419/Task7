@@ -45,15 +45,5 @@ http_archive(
             sha256 = "d0f5f605d0d656007ce6c8b5a82df3037e1d8fe8b121ed42e536f569dec16113",
         )
 
-lump
-sheep
-
-http_archive(
-    name = "absl_py",
-    sha256 = "603febc9b95a8f2979a7bdb77d2f5e4d9b30d4e0d59579f88eba67d4e4cc5462",
-    strip_prefix = "abseil-py-pypi-v0.9.0",
-    urls = [
-        "https://storage.googleapis.com/mirror.tensorflow.org/github.com/abseil/abseil-py/archive/pypi-v0.9.0.tar.gz",
-        "https://github.com/abseil/abseil-py/archive/pypi-v0.9.0.tar.gz",
-    ],
-)
+tree
+train
